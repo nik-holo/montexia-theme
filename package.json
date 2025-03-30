@@ -1,0 +1,22 @@
+{
+  "name": "montexia-theme",
+  "displayName": "Montexia Theme",
+  "description": "Monkai + One Dark Pro inspired theme that has slightly different colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Montexia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Montexia-color-theme.json"
+      }
+    ]
+  }
+}
