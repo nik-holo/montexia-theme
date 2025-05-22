@@ -9,6 +9,9 @@
   "engines": {
     "vscode": "^1.98.0"
   },
+  "license": "MIT",
+  "author": "Nikita Holodenko",
+  "publisher": "nik-holo",
   "icon": "icon.png",
   "categories": [
     "Themes"
@@ -21,5 +24,14 @@
         "path": "./themes/Montexia-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "montexia",
+    "montexia-theme",
+    "montexia-color-theme",
+    "montexia-color-theme.json",
+    "monokai",
+    "one dark pro",
+    "dark"
+  ]
 }
