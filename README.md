@@ -1,13 +1,13 @@
 # Montexia Theme
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://marketplace.visualstudio.com/items?itemName=nik-holo.montexia-theme)
+[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://marketplace.visualstudio.com/items?itemName=nik-holo.montexia-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A dark VS Code theme inspired by Monokai and One Dark Pro with a carefully selected color palette for an enhanced coding experience.
 
 ## Screenshot
 
-![Montexia Theme Screenshot](images/screenshot.png)
+![Montexia Theme Screenshot](screenshot.png)
 
 *Note: Create a screenshot of your theme in action and place it in an `images` folder, then update the path above.*
 
