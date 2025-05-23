@@ -56,6 +56,12 @@ For the best experience with Montexia Theme, consider the following VS Code sett
 
 If you'd like to contribute to this theme, please feel free to submit a PR on the [GitHub repository](https://github.com/nik-holo/montexia-theme).
 
+To generate theme vsix file run:
+
+```bash
+vsce package
+```
+
 ## License
 
 This theme is released under the [MIT License](LICENSE.txt).
